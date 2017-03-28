@@ -7,5 +7,5 @@ The Morality Calculator uses your age, sex, race, state of residence and determi
 Also, you can use Mortality Calculator to determine how much of a life time is consumed in a meeting.  Tell "Mort" how many people are in your meeting and how long the meeting will last and it will calculate how much of a life is wasted / invested into this topic.
 
 Data sources:
-[National Vital Statistics Report, CDC](https://www.cdc.gov/nchs/data/nvsr/nvsr65/nvsr65_08.pdf)
-[Church Militant](http://www.churchmilitant.com/news/article/thoughts-on-death)
+* [National Vital Statistics Report, CDC](https://www.cdc.gov/nchs/data/nvsr/nvsr65/nvsr65_08.pdf)
+* [Church Militant](http://www.churchmilitant.com/news/article/thoughts-on-death)
