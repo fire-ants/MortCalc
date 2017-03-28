@@ -8,3 +8,4 @@ Also, you can use Mortality Calculator to determine how much of a life time is c
 
 Data sources:
 [National Vital Statistics Report, CDC](https://www.cdc.gov/nchs/data/nvsr/nvsr65/nvsr65_08.pdf)
+[Church Militant](http://www.churchmilitant.com/news/article/thoughts-on-death)
